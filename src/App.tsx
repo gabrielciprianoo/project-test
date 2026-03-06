@@ -7,6 +7,8 @@ export default function App() {
       <p>Hola Gabriel Correa</p>
       <p>Hola Edgar Huante</p>
       <p>Hola Gabriel Cipriano</p>
+      <p>Hola Anahi</p>
+      <p>Hola Alexis</p>
     </div>
   )
 }
