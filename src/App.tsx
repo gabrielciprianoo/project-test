@@ -2,6 +2,10 @@
 
 export default function App() {
   return (
-    <div>Hola Gabriel</div>
+    <div>
+      <h1>Sistemas golden gate!</h1>
+      <p>Hola Gabriel Correa</p>
+      <p>Hola Edgar Huante</p>
+    </div>
   )
 }
